@@ -2,7 +2,7 @@ import React from "react";
 import "../App.css";
 import "bootstrap/dist/css/boostrap.min.css";
 
-function aboutMe(props) {
+function AboutMe(props) {
     <div className="aboutMe">
 
         <div className="container">
@@ -46,4 +46,4 @@ function aboutMe(props) {
     </div>      
     
 }
-export default aboutMe;
+export default AboutMe;

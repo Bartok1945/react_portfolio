@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from "../src/components/Navbar";
+import AboutMe from "../src/pages/about";
+import 
 
 function App() {
   return (
