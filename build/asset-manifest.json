@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.15913aa7.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.fefdf438.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.fefdf438.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.4de2b9a2.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.4de2b9a2.js.map",
+    "static/js/2.5fc857d6.chunk.js": "/React-Portfolio/static/js/2.5fc857d6.chunk.js",
+    "static/js/2.5fc857d6.chunk.js.map": "/React-Portfolio/static/js/2.5fc857d6.chunk.js.map",
+    "static/js/3.2fe8e498.chunk.js": "/React-Portfolio/static/js/3.2fe8e498.chunk.js",
+    "static/js/3.2fe8e498.chunk.js.map": "/React-Portfolio/static/js/3.2fe8e498.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.15913aa7.chunk.css.map": "/React-Portfolio/static/css/main.15913aa7.chunk.css.map",
+    "static/js/2.5fc857d6.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.5fc857d6.chunk.js.LICENSE.txt",
+    "static/media/burgerapp.7a9f1620.PNG": "/React-Portfolio/static/media/burgerapp.7a9f1620.PNG",
+    "static/media/charactersheet.2ba138bf.png": "/React-Portfolio/static/media/charactersheet.2ba138bf.png",
+    "static/media/gottaGO.a6331f0c.png": "/React-Portfolio/static/media/gottaGO.a6331f0c.png",
+    "static/media/notetaker.294e1b6a.png": "/React-Portfolio/static/media/notetaker.294e1b6a.png",
+    "static/media/passwordgenerator.8a945520.png": "/React-Portfolio/static/media/passwordgenerator.8a945520.png",
+    "static/media/rsz_10.0eeeee39.png": "/React-Portfolio/static/media/rsz_10.0eeeee39.png",
+    "static/media/components.css": "/React-Portfolio/static/media/rsz_pexels-dmitry-demidov-3784566.b366a48b.png",
+    "static/media/workout.be66afad.PNG": "/React-Portfolio/static/media/workout.be66afad.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4de2b9a2.js",
+    "static/js/2.5fc857d6.chunk.js",
+    "static/css/main.15913aa7.chunk.css",
+    "static/js/main.fefdf438.chunk.js"
+  ]
+}
